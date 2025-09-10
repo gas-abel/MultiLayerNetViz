@@ -52,3 +52,4 @@ Edges and node sizes/colors reflect relationships and activity between layers.
 ## Acknowledgements
 
 Developed using [NetworkX](https://networkx.org/), [Matplotlib](https://matplotlib.org/), and related scientific Python libraries.
+The original code was created by Paul J. N. Brodersen in https://stackoverflow.com/a/60416989 and adapted here to include further visualization features.
