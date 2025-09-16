@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Test outputs
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Node.js (if frontend present)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Others
+*.sqlite3
+*.db
+*.h5
+*.ckpt
+*.pth
+*.pt
+
+# Ignore model checkpoints and outputs
+checkpoints/
+outputs/
+runs/
